@@ -1,2 +1,3 @@
 Nikola Kosturski
-Mihail VeNaprawihme windows form za systema za Hotel.
+Mihail VeLinov
+Naprawihme windows form za systema za Hotel.
