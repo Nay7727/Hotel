@@ -11,6 +11,7 @@ namespace HotelSystem.Models
         public int Id { get; set; }
         public string TypeName { get; set; }
         public string Description { get; set; }
+        public decimal PricePerNight { get; set; }
 
         public List<HotelRoom> Rooms { get; set; }
     }

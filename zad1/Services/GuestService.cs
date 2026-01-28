@@ -1,51 +1,27 @@
 ﻿using HotelSystem.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-
-
+using HotelSystem.Repository;
 namespace HotelSystem.Services
 {
     public class GuestService
     {
-        public void Add(Guest guest)
+        private readonly GuestRepository guestRepository = new();
+
+        public void RegisterGuest(Guest guest)
         {
-            using var db = new HotelDbContext();
-            db.Guests.Add(guest);
-            db.SaveChanges();
+            if (string.IsNullOrWhiteSpace(guest.FullName))
+                throw new Exception("Invalid guest name");
+
+            guestRepository.Add(guest);
         }
 
-        public Guest Get(int id)
+        public Guest GetGuest(int id)
         {
-            using var db = new HotelDbContext();
-            return db.Guests.Find(id);
+            return guestRepository.Get(id);
         }
 
-        public List<Guest> GetAll()
+        public List<Guest> GetAllGuests()
         {
-            using var db = new HotelDbContext();
-            return db.Guests.ToList();
-        }
-
-        public void Update(Guest guest)
-        {
-            using var db = new HotelDbContext();
-            db.Guests.Update(guest);
-            db.SaveChanges();
-        }
-
-        public void Delete(int id)
-        {
-            using var db = new HotelDbContext();
-            var g = db.Guests.Find(id);
-            if (g != null)
-            {
-                db.Guests.Remove(g);
-                db.SaveChanges();
-            }
+            return guestRepository.GetAll();
         }
     }
 }

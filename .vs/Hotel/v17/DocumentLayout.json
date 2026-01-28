@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Niki\\NikolaKosturski11e\\Hotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11DC4396-E5C3-4DB0-9ECD-C9A1ADC47DA3}|HotelSystem.Test\\HotelSystem.Test.csproj|c:\\niki\\nikolakosturski11e\\hotel\\hotelsystem.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC4396-E5C3-4DB0-9ECD-C9A1ADC47DA3}|HotelSystem.Test\\HotelSystem.Test.csproj|solutionrelative:hotelsystem.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\zad1.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +27,8 @@
       "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\hotelroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\hotelroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +39,44 @@
       "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\hotelroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\hotelroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\hotelroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\repository\\hotelroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\repository\\hotelroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\repository\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\repository\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|c:\\niki\\nikolakosturski11e\\hotel\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECF7475-FDE9-4776-B820-80C95B2DF2DD}|zad1\\HotelSystem.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,19 +86,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HotelDbContext.cs",
-              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\HotelDbContext.cs",
-              "RelativeDocumentMoniker": "zad1\\HotelDbContext.cs",
-              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\HotelDbContext.cs",
-              "RelativeToolTip": "zad1\\HotelDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\HotelSystem.Test\\Program.cs",
+              "RelativeDocumentMoniker": "HotelSystem.Test\\Program.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\HotelSystem.Test\\Program.cs",
+              "RelativeToolTip": "HotelSystem.Test\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwE4AAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:00:15.828Z",
+              "WhenOpened": "2026-01-28T07:37:18.156Z",
               "EditorCaption": ""
             },
             {
@@ -85,9 +109,9 @@
               "RelativeDocumentMoniker": "zad1\\Services\\PaymentService.cs",
               "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\PaymentService.cs",
               "RelativeToolTip": "zad1\\Services\\PaymentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T09:56:26.394Z",
+              "WhenOpened": "2026-01-28T07:28:51.47Z",
               "EditorCaption": ""
             },
             {
@@ -98,45 +122,97 @@
               "RelativeDocumentMoniker": "zad1\\Services\\ReservationService.cs",
               "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\ReservationService.cs",
               "RelativeToolTip": "zad1\\Services\\ReservationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:26:23.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotelRoomService.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\HotelRoomService.cs",
+              "RelativeDocumentMoniker": "zad1\\Services\\HotelRoomService.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\HotelRoomService.cs",
+              "RelativeToolTip": "zad1\\Services\\HotelRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:31:41.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "zad1\\Services\\RoomTypeService.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\RoomTypeService.cs",
+              "RelativeToolTip": "zad1\\Services\\RoomTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:31:00.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\GuestService.cs",
+              "RelativeDocumentMoniker": "zad1\\Services\\GuestService.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\GuestService.cs",
+              "RelativeToolTip": "zad1\\Services\\GuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:28:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "zad1\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "zad1\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:56:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "zad1\\Repository\\ReservationRepository.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "zad1\\Repository\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:56:14.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GuestService.cs",
-              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\GuestService.cs",
-              "RelativeDocumentMoniker": "zad1\\Services\\GuestService.cs",
-              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\GuestService.cs",
-              "RelativeToolTip": "zad1\\Services\\GuestService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T09:56:01.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HotelRoomService.cs",
-              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\HotelRoomService.cs",
-              "RelativeDocumentMoniker": "zad1\\Services\\HotelRoomService.cs",
-              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\HotelRoomService.cs",
-              "RelativeToolTip": "zad1\\Services\\HotelRoomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "HotelRoomRepository.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\HotelRoomRepository.cs",
+              "RelativeDocumentMoniker": "zad1\\Repository\\HotelRoomRepository.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\HotelRoomRepository.cs",
+              "RelativeToolTip": "zad1\\Repository\\HotelRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:55:50.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoomTypeService.cs",
-              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\RoomTypeService.cs",
-              "RelativeDocumentMoniker": "zad1\\Services\\RoomTypeService.cs",
-              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Services\\RoomTypeService.cs",
-              "RelativeToolTip": "zad1\\Services\\RoomTypeService.cs",
+              "DocumentIndex": 11,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "zad1\\Repository\\RoomTypeRepository.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\RoomTypeRepository.cs",
+              "RelativeToolTip": "zad1\\Repository\\RoomTypeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:55:28.516Z",
@@ -144,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "zad1\\Models\\Payment.cs",
@@ -157,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "zad1\\Models\\Reservation.cs",
@@ -170,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\Guest.cs",
               "RelativeDocumentMoniker": "zad1\\Models\\Guest.cs",
@@ -183,33 +259,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HotelRoom.cs",
-              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\HotelRoom.cs",
-              "RelativeDocumentMoniker": "zad1\\Models\\HotelRoom.cs",
-              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\HotelRoom.cs",
-              "RelativeToolTip": "zad1\\Models\\HotelRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T09:53:13.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "RoomType.cs",
               "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\RoomType.cs",
               "RelativeDocumentMoniker": "zad1\\Models\\RoomType.cs",
               "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\RoomType.cs",
               "RelativeToolTip": "zad1\\Models\\RoomType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:52:55.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
+              "Title": "GuestRepository.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\GuestRepository.cs",
+              "RelativeDocumentMoniker": "zad1\\Repository\\GuestRepository.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Repository\\GuestRepository.cs",
+              "RelativeToolTip": "zad1\\Repository\\GuestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:56:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HotelRoom.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\HotelRoom.cs",
+              "RelativeDocumentMoniker": "zad1\\Models\\HotelRoom.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Models\\HotelRoom.cs",
+              "RelativeToolTip": "zad1\\Models\\HotelRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:53:13.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "zad1\\HotelDbContext.cs",
+              "ToolTip": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\HotelDbContext.cs",
+              "RelativeToolTip": "zad1\\HotelDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:00:15.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\AppSettings.cs",
               "RelativeDocumentMoniker": "zad1\\AppSettings.cs",
@@ -222,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Niki\\NikolaKosturski11e\\Hotel\\zad1\\Program.cs",
               "RelativeDocumentMoniker": "zad1\\Program.cs",
@@ -230,8 +332,7 @@
               "RelativeToolTip": "zad1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T09:50:15.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T09:50:15.279Z"
             }
           ]
         }

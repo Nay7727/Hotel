@@ -9,41 +9,19 @@ namespace HotelSystem.Services
 {
     public class RoomTypeService
     {
-        public void Add(RoomType rt)
+        private readonly RoomTypeRepository repository = new();
+
+        public void AddRoomType(RoomType type)
         {
-            using var db = new HotelDbContext();
-            db.RoomTypes.Add(rt);
-            db.SaveChanges();
+            if (type.PricePerNight <= 0)
+                throw new Exception("Invalid price");
+
+            repository.Add(type);
         }
 
-        public RoomType Get(int id)
+        public List<RoomType> GetRoomTypes()
         {
-            using var db = new HotelDbContext();
-            return db.RoomTypes.Find(id);
-        }
-
-        public List<RoomType> GetAll()
-        {
-            using var db = new HotelDbContext();
-            return db.RoomTypes.ToList();
-        }
-
-        public void Update(RoomType rt)
-        {
-            using var db = new HotelDbContext();
-            db.RoomTypes.Update(rt);
-            db.SaveChanges();
-        }
-
-        public void Delete(int id)
-        {
-            using var db = new HotelDbContext();
-            var rt = db.RoomTypes.Find(id);
-            if (rt != null)
-            {
-                db.RoomTypes.Remove(rt);
-                db.SaveChanges();
-            }
+            return repository.GetAll();
         }
     }
 }

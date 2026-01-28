@@ -1,4 +1,5 @@
 ﻿using HotelSystem.Models;
+using HotelSystem.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,41 +10,19 @@ namespace HotelSystem.Services
 {
     public class ReservationService
     {
-        public void Add(Reservation r)
+        private readonly ReservationRepository repository = new();
+
+        public void CreateReservation(Reservation reservation)
         {
-            using var db = new HotelDbContext();
-            db.Reservations.Add(r);
-            db.SaveChanges();
+            if (reservation.StartDate >= reservation.EndDate)
+                throw new Exception("Invalid dates");
+
+            repository.Add(reservation);
         }
 
-        public Reservation Get(int id)
+        public List<Reservation> GetReservations()
         {
-            using var db = new HotelDbContext();
-            return db.Reservations.Find(id);
-        }
-
-        public List<Reservation> GetAll()
-        {
-            using var db = new HotelDbContext();
-            return db.Reservations.ToList();
-        }
-
-        public void Update(Reservation r)
-        {
-            using var db = new HotelDbContext();
-            db.Reservations.Update(r);
-            db.SaveChanges();
-        }
-
-        public void Delete(int id)
-        {
-            using var db = new HotelDbContext();
-            var res = db.Reservations.Find(id);
-            if (res != null)
-            {
-                db.Reservations.Remove(res);
-                db.SaveChanges();
-            }
+            return repository.GetAll();
         }
     }
 }
