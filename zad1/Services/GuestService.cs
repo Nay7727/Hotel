@@ -23,5 +23,22 @@ namespace HotelSystem.Services
         {
             return guestRepository.GetAll();
         }
+
+        public void UpdateGuest(Guest guest)
+        {
+            if (guest == null)
+                throw new Exception("Guest is null");
+
+            if (string.IsNullOrWhiteSpace(guest.FullName))
+                throw new Exception("Invalid guest name");
+
+            guestRepository.Update(guest);
+        }
+
+        
+        public void DeleteGuest(int id)
+        {
+            guestRepository.Delete(id);
+        }
     }
 }

@@ -24,5 +24,29 @@ namespace HotelSystem.Services
         {
             return repository.GetAll();
         }
+
+        public HotelRoom GetRoom(int id)
+        {
+            return repository.Get(id);
+        }
+
+        
+        public void UpdateRoom(HotelRoom room)
+        {
+            if (room == null)
+                throw new Exception("Room is null");
+
+            if (room.RoomNumber <= 0)
+                throw new Exception("Invalid room number");
+
+            repository.Update(room);
+        }
+
+       
+        public void DeleteRoom(int id)
+        {
+            repository.Delete(id);
+        }
+
     }
 }

@@ -25,5 +25,28 @@ namespace HotelSystem.Services
         {
             return repository.GetAll();
         }
+
+        public Payment GetPayment(int id)
+        {
+            return repository.Get(id);
+        }
+
+       
+        public void UpdatePayment(Payment payment)
+        {
+            if (payment == null)
+                throw new Exception("Payment is null");
+
+            if (payment.Amount <= 0)
+                throw new Exception("Invalid amount");
+
+            repository.Update(payment);
+        }
+
+        
+        public void DeletePayment(int id)
+        {
+            repository.Delete(id);
+        }
     }
 }
